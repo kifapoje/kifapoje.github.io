@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kifapoje.github.io/sitemap/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/HVS/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/loj/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/Emp/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/uFZ/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/mYl/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/dkH/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/vdW/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/rhv/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/apK/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/nvU/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/edF/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/VSu/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/jCJ/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/xGU/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/wQZ/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/Bjh/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/IOJ/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/rhg/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/HCb/sitemap_index.kifapoje
+Sitemap: https://kifapoje.github.io/SYl/sitemap_index.kifapoje
